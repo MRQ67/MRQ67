@@ -17,7 +17,7 @@ Aspiring software developer passionate about creating impactful solutions throug
 
 ## 📈 GitHub Stats
 
-![Abdellah's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Abdellah's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRQ67&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 
