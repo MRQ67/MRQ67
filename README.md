@@ -21,6 +21,6 @@ Aspiring software developer passionate about creating impactful solutions throug
 
 ## 📫 Connect with Me
 
-- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abdellah-ahmed-abdullahi-b229382a2/))
-- [Twitter]([https://twitter.com/your-profile](https://x.com/HimoNotting))
+- [LinkedIn](https://www.linkedin.com/in/abdellah-ahmed-abdullahi-b229382a2)
+- [Twitter](https://x.com/HimoNotting)
 
