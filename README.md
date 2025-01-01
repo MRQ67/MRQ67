@@ -6,7 +6,6 @@ Aspiring software developer passionate about creating impactful solutions throug
 
 - 🌱 I’m currently learning **TypeScript** and **backend development**.
 - 💬 Ask me about **Flutter**, **Next.js**, and **Python**.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
 - ⚡ Fun fact: I love exploring new technologies and applying them to real-world projects.
 
 ## 🛠️ Skills
