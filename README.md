@@ -2,6 +2,12 @@
 
 Aspiring software developer passionate about creating impactful solutions through code.
 
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/abdellah-ahmed-abdullahi-b229382a2)
+- [Twitter](https://x.com/HimoNotting)
+
+
 ## 🚀 About Me
 
 - 🌱 I’m currently learning **TypeScript** and **backend development**.
@@ -18,8 +24,5 @@ Aspiring software developer passionate about creating impactful solutions throug
 
 ![Abdellah's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRQ67&show_icons=true&theme=radical)
 
-## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/abdellah-ahmed-abdullahi-b229382a2)
-- [Twitter](https://x.com/HimoNotting)
 
