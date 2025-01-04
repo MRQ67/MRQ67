@@ -1,5 +1,7 @@
 # Hi, I'm Abdellah! 👋
 
+![](giphy.gif)
+
 Aspiring software developer passionate about creating impactful solutions through code.
 
 ## 📫 Connect with Me
