@@ -22,9 +22,7 @@ Aspiring software developer passionate about creating impactful solutions throug
 - **Frameworks**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 - **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 📈 GitHub Stats
 
-![Abdellah's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRQ67&show_icons=true&theme=radical)
 
 
 
