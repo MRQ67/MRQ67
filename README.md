@@ -1,8 +1,10 @@
-# Hi, I'm Abdellah! 👋
+<h1 style="text-align:center;"> Hi, I'm Abdellah! 👋</h1>
 
+<div style="text-align: center;">
 ![](giphy.gif)
+</div>
 
-Aspiring software developer passionate about creating impactful solutions through code.
+<p style="text-align: center;">Aspiring software developer passionate about creating impactful solutions through code.</p>
 
 ## 📫 Connect with Me
 
