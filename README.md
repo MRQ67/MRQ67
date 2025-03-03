@@ -2,7 +2,7 @@
 
 ![](giphy.gif)
 
-"Aspiring software developer obsessed with coding solutions so good, even my bugs cheer me on."
+Aspiring software developer obsessed with coding solutions so good, even my bugs cheer me on.
 
 ## 📫 Connect with Me
 
