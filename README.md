@@ -29,6 +29,11 @@ I’m a developer who loves turning ideas into code that works.
 - **Tools**:  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=flat&logo=pycharm&logoColor=white)  ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
 
+
+## 📈 GitHub Stats
+
+![Abdellah's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRQ67&show_icons=true&theme=radical)
+
 ## 👀 Let’s Build Something Together!
 
 Check out my projects below or feel free to reach out for collaboration—I’m always up for a coding challenge!
