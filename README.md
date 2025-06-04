@@ -6,7 +6,7 @@ Aspiring software developer obsessed with coding solutions so good, even my bugs
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/abdellah-ahmed-abdullahi-b229382a2)
+- [LinkedIn](https://www.linkedin.com/in/abdellah-qadi-b229382a2?trk=contact-info)
 - [Twitter](https://x.com/HimoNotting)
 
 ## 🚀 About Me
