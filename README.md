@@ -4,7 +4,7 @@
 
 Software developer focused on building practical, scalable digital products — from mobile apps to backend systems.
 
-Personal Website: [https://www.aa3.site](https://www.aa3.site)
+Personal Website: [aa3.site](https://www.aa3.site)
 
 ## Contact
 
